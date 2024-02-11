@@ -1,5 +1,5 @@
 title: Kundai Mujati # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/KUNDAI BLESSING MUJATI.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist 
   <br><br>
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/kundaimujati/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
